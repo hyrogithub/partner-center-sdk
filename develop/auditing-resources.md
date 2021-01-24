@@ -16,7 +16,7 @@ You can use the following resources with audit operations.
 
 ## AuditRecord
 
-Represents a record of an operation performed by a partner user or application.
+Represents a record of an operation performed by a partner user or application.d
 
 | Property | Type | Description |
 | --- | --- | ---|
